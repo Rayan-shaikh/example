@@ -15,7 +15,7 @@ public class GPA extends Main_Method {
 		int numOfSubjects= 5;
 		double[] marks=new double[numOfSubjects];
 		 
-	     System.out.println("Enter marks of SC&D || AI || CCN || HCI || Eng.Eco. respectively");
+	     System.out.println("Enter marks of All Subjects");
 	 
 	     for(int i=0;i<numOfSubjects;i++)
 	     {
